@@ -7,3 +7,8 @@
   to = "/.netlify/functions/p"
   status = 200
   force = true
+[[redirects]]
+  from = "/img.jpg"
+  to = "/.netlify/functions/img"
+  status = 200
+  force = true
